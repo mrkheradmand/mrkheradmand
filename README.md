@@ -50,6 +50,7 @@ BSc (Hons) Business Information Systems, University of East London.
 <!-- 
   OPTIONAL — GitHub stats card. Uncomment the two lines below if you want it.
   It's a third-party service (github-readme-stats), so it occasionally rate-limits.
--->
+
   [My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkheradmand&show_icons=true&hide_border=true&title_color=1f3864&icon_color=0f7b8a)
 
+-->
