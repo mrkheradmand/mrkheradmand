@@ -4,7 +4,7 @@
   Anything in square brackets [ ] needs replacing before you publish.
 -->
 
-## Hi, I'm Jalal 👋
+## Hi, 👋
 
 **Backend web developer and IT support specialist.** I build database-driven web
 applications in Python and Django, and I've spent 13+ years on the technical side of a
@@ -28,7 +28,7 @@ person who has to support the thing at 9am on a Monday.
 
 ### Tech I work with
 
-`Python` · `Django` · `MySQL` · `PHP` · `Laravel` · `Docker` · `Git` · `HTML/CSS` · `JavaScript` · `LLM APIs`
+`Python` · `Django` · `MySQL` · `Docker` · `Git` · `HTML/CSS` · `JavaScript` · `LLM APIs` . `PHP` · `Laravel` 
 
 Foundations in Oracle PL/SQL, Java, C++ and VB.NET. MSc Technology Management and
 BSc (Hons) Business Information Systems, University of East London.
@@ -44,12 +44,12 @@ BSc (Hons) Business Information Systems, University of East London.
 ### Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrkheradmand.github.io-1f3864?style=flat-square)](https://mrkheradmand.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)]([LinkedIn URL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kheradmand/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-595959?style=flat-square&logo=gmail&logoColor=white)](mailto:[Email])
 
-<!--
+<!-- 
   OPTIONAL — GitHub stats card. Uncomment the two lines below if you want it.
   It's a third-party service (github-readme-stats), so it occasionally rate-limits.
-
-  ![Jalal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkheradmand&show_icons=true&hide_border=true&title_color=1f3864&icon_color=0f7b8a)
 -->
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkheradmand&show_icons=true&hide_border=true&title_color=1f3864&icon_color=0f7b8a)
+
