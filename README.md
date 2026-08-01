@@ -45,7 +45,12 @@ BSc (Hons) Business Information Systems, University of East London.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mrkheradmand.github.io-1f3864?style=flat-square)](https://mrkheradmand.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kheradmand/)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MrServer)
+ 
+
+<!--
 [![Email](https://img.shields.io/badge/Email-Say%20hello-595959?style=flat-square&logo=gmail&logoColor=white)](mailto:[Email])
+-->
 
 <!-- 
   OPTIONAL — GitHub stats card. Uncomment the two lines below if you want it.
