@@ -25,6 +25,7 @@ person who has to support the thing at 9am on a Monday.
   domains, DNS and deployments
 - 🤖 Building with **LLM APIs** and using AI coding assistants as a normal part of how
   I write and review code
+- 💬 Interested in Telegram bot development and automation
 
 ### Tech I work with
 
